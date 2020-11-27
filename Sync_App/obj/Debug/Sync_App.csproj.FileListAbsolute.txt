@@ -1,0 +1,11 @@
+D:\Documents\Study_in_University\Four_year\Nhap_mon_.NET_va_lap_trinh_C#\Finals\Sync_App\Sync_App\bin\Debug\Sync_App.exe.config
+D:\Documents\Study_in_University\Four_year\Nhap_mon_.NET_va_lap_trinh_C#\Finals\Sync_App\Sync_App\bin\Debug\Sync_App.exe
+D:\Documents\Study_in_University\Four_year\Nhap_mon_.NET_va_lap_trinh_C#\Finals\Sync_App\Sync_App\bin\Debug\Sync_App.pdb
+D:\Documents\Study_in_University\Four_year\Nhap_mon_.NET_va_lap_trinh_C#\Finals\Sync_App\Sync_App\obj\Debug\Sync_App.csprojAssemblyReference.cache
+D:\Documents\Study_in_University\Four_year\Nhap_mon_.NET_va_lap_trinh_C#\Finals\Sync_App\Sync_App\obj\Debug\Sync_App.Form_Sync.resources
+D:\Documents\Study_in_University\Four_year\Nhap_mon_.NET_va_lap_trinh_C#\Finals\Sync_App\Sync_App\obj\Debug\Sync_App.Properties.Resources.resources
+D:\Documents\Study_in_University\Four_year\Nhap_mon_.NET_va_lap_trinh_C#\Finals\Sync_App\Sync_App\obj\Debug\Sync_App.csproj.GenerateResource.cache
+D:\Documents\Study_in_University\Four_year\Nhap_mon_.NET_va_lap_trinh_C#\Finals\Sync_App\Sync_App\obj\Debug\Sync_App.csproj.CoreCompileInputs.cache
+D:\Documents\Study_in_University\Four_year\Nhap_mon_.NET_va_lap_trinh_C#\Finals\Sync_App\Sync_App\obj\Debug\Sync_App.csproj.CopyComplete
+D:\Documents\Study_in_University\Four_year\Nhap_mon_.NET_va_lap_trinh_C#\Finals\Sync_App\Sync_App\obj\Debug\Sync_App.exe
+D:\Documents\Study_in_University\Four_year\Nhap_mon_.NET_va_lap_trinh_C#\Finals\Sync_App\Sync_App\obj\Debug\Sync_App.pdb
